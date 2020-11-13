@@ -25,8 +25,8 @@ Profit 😃
 
 ### Documentación
 
-[Guía React-Navigation Embed Navigators](https://reactnavigation.org/docs/nesting-navigators)
-[Guía React-Navigation Drawer](https://reactnavigation.org/docs/drawer-based-navigation)
+[Guía React-Navigation Embed Navigators](https://reactnavigation.org/docs/nesting-navigators)<br>
+[Guía React-Navigation Drawer](https://reactnavigation.org/docs/drawer-based-navigation)<br>
 [Guía React-Navigation Tabs](https://reactnavigation.org/docs/tab-based-navigation)
 
 
